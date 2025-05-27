@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\android",
+    "\\android\\app",
+    "\\android\\app\\src",
+    "\\lib",
+    "\\lib\\Screens"
+  ],
+  "SelectedNode": "\\android\\app\\build.gradle.kts",
+  "PreviewInSolutionExplorer": false
+}

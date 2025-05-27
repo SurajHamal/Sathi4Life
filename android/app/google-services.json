@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "285527207698",
+    "project_id": "sathi4life-49de3",
+    "storage_bucket": "sathi4life-49de3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:285527207698:android:1a6993830d10231140cdcb",
+        "android_client_info": {
+          "package_name": "com.sathi4life"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3QG-IcvQ2L1YPc4PeqDa1-Y2MFaVf-F8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
