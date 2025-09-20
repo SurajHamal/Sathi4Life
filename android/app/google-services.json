@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "176534616190",
+    "project_id": "sathi4life-new",
+    "storage_bucket": "sathi4life-new.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:176534616190:android:e4d83a283d5e158e2a402f",
+        "android_client_info": {
+          "package_name": "com.sathi4life"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "176534616190-obihkdpg7lcis3pr4ruiprsbljpcn6sk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sathi4life",
+            "certificate_hash": "d9d40ac5c91d413f19684dc650f1c3646980e3e6"
+          }
+        },
+        {
+          "client_id": "176534616190-5pd9205iialnn2gm9fcgpagg1ju21dbo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCylmGbpVqElho8hyr88crpAPiaOLa1i3E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "176534616190-5pd9205iialnn2gm9fcgpagg1ju21dbo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
