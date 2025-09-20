@@ -1,4 +1,4 @@
-# sathi4life
+# Sathi4Life
 # Marriage App for Nepal (Flutter)
 
 ## 🚀 Project Overview
